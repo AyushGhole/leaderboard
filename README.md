@@ -38,3 +38,6 @@
 <p>1️⃣ Clone the repo</p>
 <p>2️⃣ Install dependencies</p>
 <p>3️⃣ Start servers</p>
+
+<h1>🌟 Bonus Points
+</h1>
