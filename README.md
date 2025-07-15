@@ -4,6 +4,7 @@
 <p>A full-stack Node.js + Express + MongoDB + ReactJS application that allows users to be selected, awarded random points, and ranked dynamically — with a modern, responsive UI and real-time updates.
 </p>
 
+<img src="leaderboard.png" />
 
 <br>
 <h1>🚀 Features
