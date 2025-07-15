@@ -64,12 +64,12 @@
 
 <h3>Deployed Project Link : </h3>
 <br>
-  <a href="https://my-finance-tracker-u15f.vercel.app/">
+  <a href="https://leaderboard-frontend-mkzb.onrender.com/">
          <img src="https://img.shields.io/badge/-Website_Link-blue?style=flat-square" height="30px" width="90px" >
    </a>
    <br>
    <h4>Demo Link : </h4> 
    <br>
-    <a href="https://youtu.be/z83NhtttsZ0">
+    <a href="https://youtu.be/nG4g2e2mdnc">
          <img src="https://img.shields.io/badge/-Demo_Link-blue?style=flat-square" height="30px" width="90px" >
    </a> 
