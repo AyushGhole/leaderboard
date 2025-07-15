@@ -18,3 +18,6 @@
 <p>✅ Well-structured, reusable codebase</p>
 
 <h1>⚙️ Tech Stack</h1>
+
+<p><b>Frontend:</b> ReactJS, Tailwind CSS, Framer Motion, React Toastify</p>
+<p><b>Backend:</b> Node.js, Express.js, MongoDB (Mongoose)</p>
