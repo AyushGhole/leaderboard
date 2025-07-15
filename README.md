@@ -39,5 +39,11 @@
 <p>2️⃣ Install dependencies</p>
 <p>3️⃣ Start servers</p>
 
-<h1>🌟 Bonus Points
-</h1>
+<h1>🌟 Bonus Points</h1>
+<p>✅ Clean and modern design</p>
+<p>✅ Fully responsive</p>
+<p>✅ Animated UI with Framer Motion</p> 
+<p>✅ Basic claim history pagination</p>
+<p>✅ Code best practices & comments
+
+</p>
