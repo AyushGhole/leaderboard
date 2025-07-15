@@ -61,3 +61,15 @@
 <span><img src="https://img.shields.io/badge/RESTFULL_API--eeff6e?style=flat-square" height="30px" width="120px" ></span>
 <span><img src="https://img.shields.io/badge/-MATERIAL_UI-ff6e6e?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-RENDER-f23400?style=flat-square" height="30px" width="80px" ></span>
+
+<h3>Deployed Project Link : </h3>
+<br>
+  <a href="https://my-finance-tracker-u15f.vercel.app/">
+         <img src="https://img.shields.io/badge/-Website_Link-blue?style=flat-square" height="30px" width="90px" >
+   </a>
+   <br>
+   <h4>Demo Link : </h4> 
+   <br>
+    <a href="https://youtu.be/z83NhtttsZ0">
+         <img src="https://img.shields.io/badge/-Demo_Link-blue?style=flat-square" height="30px" width="90px" >
+   </a> 
