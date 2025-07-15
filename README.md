@@ -16,3 +16,5 @@
 <p>✅ Clean, modern, responsive UI (Tailwind CSS + Framer Motion)</p>
 <p>✅ Toast notifications for success/error</p>
 <p>✅ Well-structured, reusable codebase</p>
+
+<h1>⚙️ Tech Stack</h1>
