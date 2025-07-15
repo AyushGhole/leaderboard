@@ -1,4 +1,4 @@
-leaderboard-frontend/node_modules
-leaderboard-backend/node_modules
+leaderboard-frontend/node_modules/
+leaderboard-backend/node_modules/
 
 leaderboard-backend/.env
