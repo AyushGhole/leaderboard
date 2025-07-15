@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/users";
+const API_URL = "https://leaderboard-j73b.onrender.com/api/users";
 
 export const getUsers = async () => {
   const res = await axios.get(API_URL);
@@ -18,6 +18,6 @@ export const claimPoints = async (userId) => {
 };
 
 export const getClaimHistory = async () => {
-  const res = await fetch(`http://localhost:5000/api/claims`);
+  const res = await fetch(`https://leaderboard-j73b.onrender.com/api/claims`);
   return await res.json();
 };
