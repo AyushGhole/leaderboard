@@ -23,7 +23,6 @@
 <p><b>Backend:</b> Node.js, Express.js, MongoDB (Mongoose)</p>
 
 <h1>📂 Project Structure</h1>
-
 ├── backend/<br>
 │   ├── models/<br>
 │   ├── routes/<br>
