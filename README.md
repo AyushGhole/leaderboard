@@ -21,3 +21,5 @@
 
 <p><b>Frontend:</b> ReactJS, Tailwind CSS, Framer Motion, React Toastify</p>
 <p><b>Backend:</b> Node.js, Express.js, MongoDB (Mongoose)</p>
+
+<h1>📂 Project Structure</h1>
