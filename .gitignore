@@ -1,4 +1,4 @@
-/frontend/node_modules
-backend/node_modules
+leaderboard-frontend/node_modules
+leaderboard-backend/node_modules
 
-backend/.env
+leaderboard-backend/.env
