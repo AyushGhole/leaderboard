@@ -1,4 +1,6 @@
-leaderboard-frontend/node_modules/
-leaderboard-backend/node_modules/
+leaderboard/leaderboard-frontend/node_modules/
+leaderboard/leaderboard-backend/node_modules/
 
-leaderboard-backend/.env
+leaderboard\leaderboard-backend\.env
+leaderboard\leaderboard-backend\node_modules
+
