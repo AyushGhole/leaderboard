@@ -34,3 +34,7 @@
 │   │   ├── App.jsx<br>
 
 <h1>📌 How to Run</h1>
+
+<p>1️⃣ Clone the repo</p>
+<p>2️⃣ Install dependencies</p>
+<p>3️⃣ Start servers</p>
